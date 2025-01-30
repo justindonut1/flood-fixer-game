@@ -23,10 +23,10 @@ var equipment = { dehumidifier: 0, airMover: 0, airScrubber: 0 };
 
 // Preload Game Assets
 function preload() {
-    this.load.image('dehumidifier', 'https://yourwebsite.com/dehumidifier.png');
-    this.load.image('air_mover', 'https://yourwebsite.com/air_mover.png');
-    this.load.image('air_scrubber', 'https://yourwebsite.com/air_scrubber.png');
-    this.load.image('background', 'https://yourwebsite.com/background.png');
+    this.load.image('dehumidifier', 'justindonut1/flood-fixer-game/dehu pix.webp');
+    this.load.image('air_mover', 'justindonut1/flood-fixer-game/air mover pix.webp');
+    this.load.image('air_scrubber', 'justindonut1/flood-fixer-game/hepa pix.webp');
+    this.load.image('background', 'justindonut1/flood-fixer-game/True North Circle.png');
 }
 
 // Create Game Objects
